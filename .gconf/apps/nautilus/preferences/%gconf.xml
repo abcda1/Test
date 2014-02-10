@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="navigation_window_saved_maximized" mtime="1391771155" type="bool" value="false"/>
-	<entry name="navigation_window_saved_geometry" mtime="1391771155" type="string">
-		<stringvalue>800x550+558+189</stringvalue>
-	</entry>
-	<entry name="start_with_sidebar" mtime="1391771300" type="bool" value="true"/>
-</gconf>
